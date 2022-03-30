@@ -5,7 +5,8 @@
     "./src/ejercicio1/LOL/LOL.ts",
     "./src/ejercicio1/Universo/Universo.ts",
     "./src/ejercicio1/combat/combat.ts",
-    "./src/ejercicio1/figther/figther.ts"
+    "./src/ejercicio1/figther/figther.ts",
+    "./src/ejercicioPA101.ts"
   ],
   "out": "./docs"
 }
